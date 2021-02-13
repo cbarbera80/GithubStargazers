@@ -1,0 +1,65 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Anchorage (4.5.0)
+  - IQKeyboardManagerSwift (6.4.0)
+  - Kingfisher (6.1.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Result (4.1.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - RxTest (5.1.1):
+    - RxSwift (~> 5)
+  - SwiftGen (6.4.0)
+  - SwiftLint (0.42.0)
+
+DEPENDENCIES:
+  - Anchorage
+  - IQKeyboardManagerSwift (= 6.4.0)
+  - Kingfisher
+  - Moya (~> 13.0.1)
+  - RxCocoa (= 5.1.1)
+  - RxSwift (= 5.1.1)
+  - RxTest
+  - SwiftGen
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Anchorage
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - Moya
+    - Result
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - RxTest
+    - SwiftGen
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Anchorage: 1961bc81c84aeed54ad7ffc697c50cd9de748ba6
+  IQKeyboardManagerSwift: ed9b04ee0e3067ffba543283462d619f944b05e5
+  Kingfisher: f5d8d60a0ef3edd642fd781bae60918599901aff
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  RxTest: 711632d5644dffbeb62c936a521b5b008a1e1faa
+  SwiftGen: 67860cc7c3cfc2ed25b9b74cfd55495fc89f9108
+  SwiftLint: 4fa9579c63416865179bc416f0a92d55f009600d
+
+PODFILE CHECKSUM: 98c624f55df16d4dd8ef41ff943612b4b4f4b24f
+
+COCOAPODS: 1.10.1
